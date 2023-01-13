@@ -29,7 +29,7 @@
     "name": "Панорама Бум",
     "address": "3-го Интернационала, 8, ТРЦ «Бум-сити»",
     "URL": "/moskov/kinoteatry/37587pl",
-    "scheme_svg": "/scheme_svg/37587.svg"
+    "scheme_svg": "https://raw.githubusercontent.com/Mypmansk/JSONServer/main/sheme.svg"
   },
   "states": {
     "default": {
