@@ -1,7 +1,7 @@
 {
   "users": [
     {
-      "id": "1",
+      "id": 1,
       "name": "Evan",
       "surname": "Lahti",
       "profession": "PC Gamer",
@@ -10,7 +10,7 @@
       "avatar_url": "../public/avatar/ava1-2x.jpg"
     },
     {
-      "id": "2",
+      "id": 2,
       "name": "Jada",
       "surname": "Griffin ",
       "profession": "Nerdreactor",
@@ -19,7 +19,7 @@
       "avatar_url": "../public/avatar/ava1-2x.jpg"
     },
     {
-      "id": "3",
+      "id": 3,
       "name": "Aaron ",
       "surname": "Williams i",
       "profession": "Uproxx",
