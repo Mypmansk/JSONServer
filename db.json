@@ -1,4 +1,5 @@
 {
+    {
     id: "1",
     name: "Evan",
     surname: "Lahti",
@@ -26,3 +27,4 @@
     date_feedback: "December 24, 2018",
     avatar_url: "../public/avatar/ava1-2x.jpg",
   }
+}
