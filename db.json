@@ -1,4 +1,3 @@
-[
     {
     "id": "1",
     "name": "Evan",
@@ -7,23 +6,4 @@
     "feedback": "One of my gaming highlights of the year.",
     "date_feedback": "October 18, 2018",
     "avatar_url": "../public/avatar/ava1-2x.jpg",
-  },
-  {
-    "id": "2",
-    "name": "Jada",
-    "surname": "Griffin ",
-    "profession": "Nerdreactor",
-    "feedback":"The next big thing in the world of streaming and survival games.",
-    "date_feedback": "December 21, 2018",
-    "avatar_url": "../public/avatar/ava1-2x.jpg",
-  },
-  {
-    "id": "3",
-    "name": "Aaron ",
-    "surname": "Williams i",
-    "profession": "Uproxx",
-    "feedback": "Snoop Dogg Playing The Wildly Entertaining ‘SOS’ Is Ridiculous.",
-    "date_feedback": "December 24, 2018",
-    "avatar_url": "../public/avatar/ava1-2x.jpg",
   }
-]
