@@ -7,7 +7,7 @@
       "profession": "PC Gamer",
       "feedback": "One of my gaming highlights of the year.",
       "date_feedback": "October 18, 2018",
-      "avatar_url": "../public/avatar/ava1-2x.jpg"
+      "avatar_url": "https://raw.githubusercontent.com/Mypmansk/JSONServer/main/ava1-2x.jpg"
     },
     {
       "id": 2,
@@ -16,7 +16,7 @@
       "profession": "Nerdreactor",
       "feedback": "The next big thing in the world of streaming and survival games.",
       "date_feedback": "December 21, 2018",
-      "avatar_url": "../public/avatar/ava1-2x.jpg"
+      "avatar_url": "https://raw.githubusercontent.com/Mypmansk/JSONServer/main/ava3.jpg"
     },
     {
       "id": 3,
@@ -25,7 +25,7 @@
       "profession": "Uproxx",
       "feedback": "Snoop Dogg Playing The Wildly Entertaining ‘SOS’ Is Ridiculous.",
       "date_feedback": "December 24, 2018",
-      "avatar_url": "../public/avatar/ava1-2x.jpg"
+      "avatar_url": "https://raw.githubusercontent.com/Mypmansk/JSONServer/main/ava2.jpg"
     }
   ]
 }
