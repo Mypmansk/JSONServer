@@ -1,32 +1,203 @@
 {
-  "users": [
-    {
-      "id": 1,
-      "name": "Evan",
-      "surname": "Lahti",
-      "profession": "PC Gamer",
-      "feedback": "One of my gaming highlights of the year.",
-      "date_feedback": "October 18, 2018",
-      "avatar_url": "https://raw.githubusercontent.com/Mypmansk/JSONServer/main/ava1-2x.jpg"
-    },
-    {
-      "id": 2,
-      "name": "Jada",
-      "surname": "Griffin ",
-      "profession": "Nerdreactor",
-      "feedback": "The next big thing in the world of streaming and survival games.",
-      "date_feedback": "December 21, 2018",
-      "avatar_url": "https://raw.githubusercontent.com/Mypmansk/JSONServer/main/ava3.jpg"
-    },
-    {
-      "id": 3,
-      "name": "Aaron ",
-      "surname": "Williams i",
-      "profession": "Uproxx",
-      "feedback": "Snoop Dogg Playing The Wildly Entertaining ‘SOS’ Is Ridiculous.",
-      "date_feedback": "December 24, 2018",
-      "avatar_url": "https://raw.githubusercontent.com/Mypmansk/JSONServer/main/ava2.jpg"
-    }
-  ]
+	"name": "Chicago Data Portal",
+	"children": [
+		{
+			"name": "Buildings",
+			"children": [
+				{
+					"url": "https://data.cityofchicago.org/Buildings/Elevation-Benchmarks/zgvr-7yfd",
+					"name": "Elevation Benchmarks",
+					"size": 358,
+					"value": 5.8805329864007
+				},
+				{
+					"name": "Building Permits",
+					"children": [
+						{
+							"url": "https://data.cityofchicago.org/Buildings/Life-Safety-Evaluations/qqqh-hgyw",
+							"name": "Life Safety Evaluations",
+							"size": 620,
+							"value": 6.429719478039138
+						},
+						{
+							"url": "https://data.cityofchicago.org/Buildings/Building-Permits-Waived-Fees/rfav-vmja",
+							"name": "Building Permits - Waived Fees",
+							"size": 514,
+							"value": 6.2422232654551655
+						}
+					]
+				},
+				{
+					"url": "https://data.cityofchicago.org/Buildings/Vacant-and-Abandoned-Buildings-Violations/kc9i-wq85",
+					"name": "Vacant & Abandoned Buildings - Violations",
+					"size": 6356,
+					"value": 8.757154527656606
+				},
+				{
+					"url": "https://data.cityofchicago.org/Buildings/Life-Safety-Evaluations/qqqh-hgyw",
+					"name": "Life Safety Evaluations",
+					"size": 620,
+					"value": 6.429719478039138
+				},
+				{
+					"url": "https://data.cityofchicago.org/Buildings/Building-Permits-Waived-Fees/rfav-vmja",
+					"name": "Building Permits - Waived Fees",
+					"size": 514,
+					"value": 6.2422232654551655
+				},
+				{
+					"url": "https://data.cityofchicago.org/Buildings/Building-Violations/22u3-xenr",
+					"name": "Building Violations",
+					"size": 1134196,
+					"value": 13.94143458784098
+				}
+			]
+		},
+		{
+			"name": "Service Requests",
+			"children": [
+				{
+					"url": "https://data.cityofchicago.org/Service-Requests/311-Service-Requests-Street-Lights-All-Out/zuxi-7xem",
+					"name": "311 Service Requests - Street Lights - All Out",
+					"size": 163206,
+					"value": 12.002768485542221
+				},
+				{
+					"url": "https://data.cityofchicago.org/Service-Requests/311-Service-Requests-Graffiti-Removal/hec5-y4x5",
+					"name": "311 Service Requests - Graffiti Removal",
+					"size": 362681,
+					"value": 12.801278939007762
+				},
+				{
+					"url": "https://data.cityofchicago.org/Service-Requests/311-Service-Requests-Sanitation-Code-Complaints/me59-5fac",
+					"name": "311 Service Requests - Sanitation Code Complaints",
+					"size": 45290,
+					"value": 10.72084153655026
+				},
+				{
+					"url": "https://data.cityofchicago.org/Service-Requests/311-Service-Requests-Tree-Trims/uxic-zsuj",
+					"name": "311 Service Requests - Tree Trims",
+					"size": 116161,
+					"value": 11.662732438836994
+				},
+				{
+					"url": "https://data.cityofchicago.org/Service-Requests/311-Service-Requests-Tree-Debris/mab8-y9h3",
+					"name": "311 Service Requests - Tree Debris",
+					"size": 50315,
+					"value": 10.826058522367434
+				},
+				{
+					"url": "https://data.cityofchicago.org/Service-Requests/311-Service-Requests-Rodent-Baiting/97t6-zrhs",
+					"name": "311 Service Requests - Rodent Baiting",
+					"size": 87788,
+					"value": 11.38268009602275
+				},
+				{
+					"url": "https://data.cityofchicago.org/Service-Requests/311-Service-Requests-Garbage-Carts/9ksk-na4q",
+					"name": "311 Service Requests - Garbage Carts",
+					"size": 127503,
+					"value": 11.75589517271557
+				},
+				{
+					"url": "https://data.cityofchicago.org/Service-Requests/311-Service-Requests-Abandoned-Vehicles/3c9v-pnva",
+					"name": "311 Service Requests - Abandoned Vehicles",
+					"size": 55556,
+					"value": 10.92514680003611
+				},
+				{
+					"url": "https://data.cityofchicago.org/Service-Requests/311-Service-Requests-Vacant-and-Abandoned-Building/7nii-7srd",
+					"name": "311 Service Requests - Vacant & Abandoned Buildings Reported",
+					"size": 38906,
+					"value": 10.568903759357763
+				},
+				{
+					"url": "https://data.cityofchicago.org/Service-Requests/311-Service-Requests-Pot-Holes-Reported/7as2-ds3y",
+					"name": "311 Service Requests - Pot Holes Reported",
+					"size": 172383,
+					"value": 12.05747402446102
+				},
+				{
+					"url": "https://data.cityofchicago.org/Service-Requests/311-Service-Requests-Street-Lights-One-Out/3aav-uy2v",
+					"name": "311 Service Requests - Street Lights - One Out",
+					"size": 74157,
+					"value": 11.213939746347055
+				},
+				{
+					"url": "https://data.cityofchicago.org/Service-Requests/311-Service-Requests-Alley-Lights-Out/t28b-ys7j",
+					"name": "311 Service Requests - Alley Lights Out",
+					"size": 74982,
+					"value": 11.225003363713839
+				}
+			]
+		},
+		{
+			"name": "Events",
+			"children": [
+				{
+					"url": "https://data.cityofchicago.org/Events/Public-Right-of-Way-Use-Permits-Parades/a2eb-d767",
+					"name": "Public Right-of-Way Use Permits - Parades",
+					"size": 593,
+					"value": 6.385194398997726
+				},
+				{
+					"url": "https://data.cityofchicago.org/Events/Chicago-Park-District-Event-Permits/pk66-w54g",
+					"name": "Chicago Park District - Event Permits",
+					"size": 13829,
+					"value": 9.534523115464658
+				},
+				{
+					"url": "https://data.cityofchicago.org/Events/Public-Building-Commission-Event-Permits/knv6-r5ad",
+					"name": "Public Building Commission - Event Permits",
+					"size": 153,
+					"value": 5.030437921392435
+				}
+			]
+		},
+		{
+			"name": "Parks & Recreation",
+			"children": [
+				{
+					"url": "https://data.cityofchicago.org/Parks-Recreation/Parks-Public-Art/sj6t-9cju",
+					"name": "Parks - Public Art",
+					"size": 194,
+					"value": 5.267858159063328
+				},
+				{
+					"url": "https://data.cityofchicago.org/Parks-Recreation/Parks-Locations/wwy2-k7b3",
+					"name": "Parks - Locations",
+					"size": 581,
+					"value": 6.364750756851911
+				},
+				{
+					"url": "https://data.cityofchicago.org/Parks-Recreation/Parks-Facilities-Features/y7qa-tvqx",
+					"name": "Parks - Facilities & Features",
+					"size": 4152,
+					"value": 8.331345424845724
+				},
+				{
+					"url": "https://data.cityofchicago.org/Parks-Recreation/Parks-Buildings/2u2y-n6dm",
+					"name": "Parks - Buildings",
+					"size": 642,
+					"value": 6.464588303689961
+				}
+			]
+		},
+		{
+			"name": "Sanitation",
+			"children": [
+				{
+					"url": "https://data.cityofchicago.org/Sanitation/Street-Sweeping-Schedule-2012/k3hy-v5xb",
+					"name": "Street Sweeping Schedule - 2012",
+					"size": 4086,
+					"value": 8.315321775377567
+				},
+				{
+					"url": "https://data.cityofchicago.org/Sanitation/Street-Sweeping-Schedule-2013/8h6a-imtk",
+					"name": "Street Sweeping Schedule - 2013",
+					"size": 4025,
+					"value": 8.300280189852664
+				}
+			]
+		}
+	]
 }
-
