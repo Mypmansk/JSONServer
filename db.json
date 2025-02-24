@@ -1,9 +1,9 @@
 {
 	"name": "Chicago Data Portal",
-	"children": [
+	"childrens": [
 		{
 			"name": "Buildings",
-			"children": [
+			"childrens": [
 				{
 					"url": "https://data.cityofchicago.org/Buildings/Elevation-Benchmarks/zgvr-7yfd",
 					"name": "Elevation Benchmarks",
@@ -12,7 +12,7 @@
 				},
 				{
 					"name": "Building Permits",
-					"children": [
+					"childrens": [
 						{
 							"url": "https://data.cityofchicago.org/Buildings/Life-Safety-Evaluations/qqqh-hgyw",
 							"name": "Life Safety Evaluations",
@@ -55,7 +55,7 @@
 		},
 		{
 			"name": "Service Requests",
-			"children": [
+			"childrens": [
 				{
 					"url": "https://data.cityofchicago.org/Service-Requests/311-Service-Requests-Street-Lights-All-Out/zuxi-7xem",
 					"name": "311 Service Requests - Street Lights - All Out",
@@ -132,7 +132,7 @@
 		},
 		{
 			"name": "Events",
-			"children": [
+			"childrens": [
 				{
 					"url": "https://data.cityofchicago.org/Events/Public-Right-of-Way-Use-Permits-Parades/a2eb-d767",
 					"name": "Public Right-of-Way Use Permits - Parades",
@@ -155,7 +155,7 @@
 		},
 		{
 			"name": "Parks & Recreation",
-			"children": [
+			"childrens": [
 				{
 					"url": "https://data.cityofchicago.org/Parks-Recreation/Parks-Public-Art/sj6t-9cju",
 					"name": "Parks - Public Art",
@@ -184,7 +184,7 @@
 		},
 		{
 			"name": "Sanitation",
-			"children": [
+			"childrens": [
 				{
 					"url": "https://data.cityofchicago.org/Sanitation/Street-Sweeping-Schedule-2012/k3hy-v5xb",
 					"name": "Street Sweeping Schedule - 2012",
